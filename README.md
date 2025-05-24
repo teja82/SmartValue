@@ -23,41 +23,6 @@ SmartValue is a user-friendly web application designed to predict house prices b
 
 - ✅ Deployment: Render
 
-## **🚀 Installation**
-***Prerequisites***
-- Python 3.11 installed on your system.
-
-***Steps***
-**Clone the repository**:
-```bash
-git clone https://github.com/teja82/SmartValue.git
-cd SmartValue
-```
-**Create and activate a virtual environment**:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-**Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-**Ensure data files are present**:
-
-Make sure train.csv and test.csv are located in the project directory.
-
-**Run the application**:
-
-```bash
-streamlit run app.py
-```
-
-
-**Access the app**:
-
-Open your browser and navigate to http://localhost:8501.
-
 ## **📂 Project Structure**
 
 SmartValue/<br>
